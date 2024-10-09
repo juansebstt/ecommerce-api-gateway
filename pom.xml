@@ -87,7 +87,7 @@
             <scope>runtime</scope>
             <optional>true</optional>
         </dependency>
-        
+
 
         <!-- MySQL or PostgreSQL Support (optional if needed for backend services) -->
         <!-- Uncomment if you need database communication in the gateway itself -->
@@ -116,8 +116,6 @@
             </dependency>
         </dependencies>
     </dependencyManagement>
-
-
 
     <!-- Build Plugins -->
     <build>
